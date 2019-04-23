@@ -1,0 +1,36 @@
+body{
+	
+}
+
+
+#sala{
+	width: 100%;/*Largura Responsiva*/
+				height: 100%;
+				position: fixed;
+				top: 0; left: 0;
+				z-index: -1;
+				opacity: 0.4;
+
+}
+h1,h2{
+	text-align: center;
+}
+p{
+	text-align: left;
+	font-size: 20px;
+}
+#google{
+	clear: both;
+}
+footer{
+		background-color: black;
+		color: #F2FFFC;
+		padding: 20px;
+	}
+	aside{
+			background-color: #3C1D3D;
+			color: #F2FFFC;
+		}
+
+
+	
